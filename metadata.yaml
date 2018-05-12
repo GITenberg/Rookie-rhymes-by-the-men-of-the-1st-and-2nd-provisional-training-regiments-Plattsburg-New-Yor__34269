@@ -1,0 +1,30 @@
+_repo: Rookie-rhymes-by-the-men-of-the-1st-and-2nd-provisional-training-regiments-Plattsburg-New-Yor__34269
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34269-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Plattsburgh Barracks (N.Y.)
+    aliases:
+    - United States. Army. Plattsburgh Barracks
+    - Plattsburgh Military Training Camp (N.Y.)
+    gutenberg_agent_id: '36327'
+    url: http://www.gutenberg.org/2009/agents/36327
+description: ''
+gutenberg_issued: '2010-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34269'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- !lcsh 'American poetry -- Collections'
+- !lcc 'U'
+- !lcc 'PS'
+title: Rookie rhymes, by the men of the 1st and 2nd provisional training regiments,
+  Plattsburg, New York
+url: http://www.gutenberg.org/ebooks/34269
