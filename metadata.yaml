@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36327'
     url: http://www.gutenberg.org/2009/agents/36327
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34269#Rookie-rhymes-by-the-men-of-the-1st-and-2nd-provisional-training-regiments-Plattsburg-New-Yor_
 gutenberg_issued: '2010-11-10'
 gutenberg_type: Text
 identifiers:
